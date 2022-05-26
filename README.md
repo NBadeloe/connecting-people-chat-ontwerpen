@@ -10,16 +10,16 @@ In deze deeltaak ben ik bezig geweest met het analyseren van een huisstijl en di
 
 ### Bol
 niet goed:
--corporate art???
--weinig ui states
+- corporate art???
+- weinig ui states
 
 goed:
 - incoming message denk wolkje
 
 ### Habbo
 niet goed:
--chat gaat soms heel snel uit beeld
--weinig ui states
+- chat gaat soms heel snel uit beeld
+- weinig ui states
 
 goed:
 - incoming message denk wolkje
@@ -27,8 +27,8 @@ goed:
 
 ### Twitch
 niet goed:
--geanimeerde emotes(animatie kan uitgezet wordin via chat instellingen)
--weinig ui states
+- geanimeerde emotes(animatie kan uitgezet wordin via chat instellingen)
+- weinig ui states
 
 goed:
 - emotes:)
@@ -45,11 +45,11 @@ goed:
 
 ### alive with me & die with me
 niet goed:
--weinig ui states
+- weinig ui states
 
 goed:
 - incoming message denk wolkje
-- -heel minimaal
+- heel minimaal
 - kleur gebruik voora apps is passend
 
 ## Ontwerp tien verschillende digitale versies van een chatroom voor jouw opdrachtgever
