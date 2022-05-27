@@ -70,8 +70,7 @@ Voor ontwerpen 3 tm 6 heb ik gekozen om een meer moderne twist te geven aan de c
 
 Voor ontwerpen 6 tm 9 heb ik gekozen om de verloop te houden. Ik heb hier meer gespeeld met rondere hoeken voor de chat wolkjes.
 
-![](https://github.com/NBadeloe/connecting-people-chat-ontwerpen/blob/main/3%20tm%206.PNG](https://github.com/NBadeloe/connecting-people-chat-ontwerpen/blob/main/10.PNG)
-
+![](https://github.com/NBadeloe/connecting-people-chat-ontwerpen/blob/main/10.PNG)
 voor onterp 10 heb elementen gemixt en gematcht. ik heb de achtergrond en chat wolkjes redelijk monogroom gehouden, maar ik heb een donkere kleur toe gevoegd aan de verloop omdat het meer rust geeft. 
 
 ## Licentie
