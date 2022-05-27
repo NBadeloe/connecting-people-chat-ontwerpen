@@ -52,7 +52,9 @@ goed:
 - heel minimaal
 - kleur gebruik voora apps is passend
 
-## Ontwerp tien verschillende digitale versies van een chatroom voor jouw opdrachtgever
+## Huisstijl analyse 
+![huistijl](https://github.com/NBadeloe/connecting-people-chat-ontwerpen/blob/main/huisstijl.PNG)
+ ik heb de huisstijl van qpido/reflect for effect geanalyseerd. het kleur gebruik is redelijk koel en zijn 3 verschillende accent hleuren die ik kan gebruiken voor de chat. De vormen van qpido zijn recht met afgeronde hoeken wat ik bijvoorbeeld mee kan nemen in de chat wolkjes. De huidige email form lijk al heel erg op een chat type veld dus dit kan ook met wat aanpassingen verwerkt worden in de chat. De typografie is heel minimaal met wat variatie tussen zwart en wit.
 
 ## Schetsen, Figma/XD of CSS?
 
